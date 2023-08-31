@@ -1,13 +1,10 @@
 ## Project Title: Nashville Housing Data Cleaning Project
 
-** Project Description:**
-Welcome to the Nashville Housing Data Cleaning Project! This repository contains SQL queries aimed at cleaning and preparing the Nashville housing dataset for analysis. 
+** Project Description:** Welcome to the Nashville Housing Data Cleaning Project! This repository contains SQL queries aimed at cleaning and preparing the Nashville housing dataset for analysis. 
 
-** Data Source:**
-The project uses the Nashville housing dataset, which contains information about properties in Nashville, including attributes such as property addresses, sale prices, land use, and more. The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data).
+** Data Source:** The project uses the Nashville housing dataset, which contains information about properties in Nashville, including attributes such as property addresses, sale prices, land use, and more. The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data).
 
-** Script Overview:**
-The provided SQL script covers a series of data cleaning operations performed on the Nashville housing dataset. Here's an overview of the steps taken:
+** Script Overview:** The provided SQL script covers a series of data cleaning operations performed on the Nashville housing dataset. Here's an overview of the steps taken:
 
 1. **Standardize Date Format:** Convert the SaleDate column to a consistent Date format.
 2. **Populate Property Address Data:** Fill in missing property addresses by combining data from related records.
