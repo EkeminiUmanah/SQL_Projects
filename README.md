@@ -1,12 +1,34 @@
-Thank you for visiting my Data Science and Analysis Portfolio! 
+# Projects Overview
 
-This repository showcases a collection of my data science and analysis projects, demonstrating my skills and expertise in various domains. Each project is designed to solve a specific problem, leverage data-driven insights, and provide meaningful results. From exploratory data analysis to machine learning models and predictive analytics, this portfolio encompasses a range of projects that highlight my ability to extract actionable insights from data.
+Welcome to my SQL projects repository. Each project focuses on a specific dataset and aims to perform various data operations and analysis using SQL queries.
 
-In this repository, you will find a variety of projects, each with its own dedicated directory. Each project directory contains a detailed README.md file, providing an overview of the project, the dataset used, the methodology employed, and the key findings. Additionally, the code used for analysis, visualizations, and models is available for reference and exploration.
+## Project 1: Nashville Housing Data Cleaning Project
 
-I have organized the projects to ensure ease of navigation and understanding. 
+**Description:**
+The Nashville Housing Data Cleaning Project is dedicated to cleaning and preparing the Nashville housing dataset sourced from Kaggle. It involves SQL queries to standardize date formats, populate missing data, split address fields, standardize values, remove duplicates, and delete unused columns.
 
-Feel free to explore my projects, analyze the code, and delve into the fascinating world of data science and analysis. Whether you are a potential employer, collaborator, or fellow data enthusiast, this portfolio aims to demonstrate my capabilities, passion, and commitment to delivering impactful insights through data-driven analysis.
+**Key Operations:**
+- Standardizing Date Formats
+- Populating Missing Data
+- Splitting Address Fields
+- Standardizing Values
+- Removing Duplicates
+- Deleting Unused Columns
 
-If you have any questions, feedback, or would like to collaborate on a project, please don't hesitate to reach out. Your feedback and contributions are greatly appreciated.
+## Project 2: COVID-19 Data Analysis and Exploration
 
+**Description:**
+The COVID-19 Data Analysis and Exploration project delve into the exploration of global COVID-19 data sourced from ourworldindata.org. It entails SQL queries to analyze various aspects of the pandemic such as case statistics, vaccination rates, testing, and the impact of stringency measures.
+
+**Key Operations:**
+- Querying and Filtering Data
+- Calculating Summary Statistics
+- Joining Tables
+- Creating Views
+- Using Common Table Expressions (CTEs)
+- Utilizing Aggregate Functions
+
+## Folder Structure
+
+- `/Data Cleaning SQL/`: Contains scripts and documentation related to the Nashville Housing Data Cleaning Project.
+- `/Covid_Data_Exploration/`: Contains scripts and documentation related to the COVID-19 Data Analysis and Exploration Project.
