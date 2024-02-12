@@ -30,5 +30,6 @@ The COVID-19 Data Analysis and Exploration project delve into the exploration of
 
 ## Folder Structure
 
-- `/Data Cleaning SQL/`: Contains scripts and documentation related to the Nashville Housing Data Cleaning Project.
 - `/Covid_Data_Exploration/`: Contains scripts and documentation related to the COVID-19 Data Analysis and Exploration Project.
+- `/Data Cleaning SQL/`: Contains scripts and documentation related to the Nashville Housing Data Cleaning Project.
+
