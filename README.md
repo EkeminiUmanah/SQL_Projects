@@ -18,7 +18,7 @@ The Nashville Housing Data Cleaning Project is dedicated to cleaning and prepari
 ## Project 2: COVID-19 Data Analysis and Exploration
 
 **Description:**
-The COVID-19 Data Analysis and Exploration project delve into the exploration of global COVID-19 data sourced from ourworldindata.org. It entails SQL queries to analyze various aspects of the pandemic such as case statistics, vaccination rates, testing, and the impact of stringency measures.
+The COVID-19 Data Analysis and Exploration project delve into the exploration of global COVID-19 data sourced from [ourworldindata.org](https://ourworldindata.org/covid-deaths). It entails SQL queries to analyze various aspects of the pandemic such as case statistics, vaccination rates, testing, and the impact of stringency measures.
 
 **Key Operations:**
 - Querying and Filtering Data
